@@ -1,5 +1,5 @@
 {
-  "name": "Simple_UI_Suite",
-  "description": "A self-organizing UI for web pages and other uses.",
-  "version": "4.2.1"
+  "name": "Voice_Assistance_Layer",
+  "description": "A plug-and-play addon to web pages for smoothly interfacing with screen reader features of most operating systems.",
+  "version": "5.2.1"
 }
